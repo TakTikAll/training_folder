@@ -1,0 +1,15 @@
+(1ур.)
+
+Input - может работать на вход и выход
+.strip() - тримирование с обоих концов устраняет символы. В середине строки не обрезаются пробелы.
+.title() - написание значение с заглавной строки. При этом если в значениях есть заглвнные буквы по середеине слова уравнивает  их.
+.lower() - написани слова с маленького регистра
+
+str (от слова string) - строка преобразователь
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/TakTikAll/Oling.git
+git push -u origin master
